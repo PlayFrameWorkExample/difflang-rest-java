@@ -1,4 +1,4 @@
-package controllers;
+package com.difflang.controllers;
 
 import javax.inject.*;
 import play.*;
