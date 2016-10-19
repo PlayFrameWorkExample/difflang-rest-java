@@ -1,8 +1,6 @@
 package com.difflang.models;
 
-/**
- * Created by ChivonChhai on 10/18/2016.
- */
+
 public class Roles {
     private  int id;
     private  String name;
